@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* for loop
+		* The for loop is one of the most widely used loops. It has a built in counter, often declared as the variable i, and sentinel, which is the check to determine if the loop should run again.
 	* && || !
+		* The logical and, or, and not operators are used to combine and alter boolean logic checks.
 	* Array
+		* The array is a variable type, denoted by [], that can contain other variables of varying types.
 	* git
+		* git is one of the most popular version control system in use today, allowing developers to better collaborate and manage their code.
 	* GitHub
+		* GitHub is a cloud based hosting solution for version control using git. They offer free, paid, and enterprise services.
 
 
 2. Install git.  https://git-scm.com/downloads
